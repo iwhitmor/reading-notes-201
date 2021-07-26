@@ -1,3 +1,4 @@
-# Reading Notes for Class 201
+# Code 201 Reading Notes
 
 ### Table of Contents
+- [Introductory HTML and JavaScript]
