@@ -59,3 +59,5 @@
   - It is best to keep JS cod ein its own JS file
 
   - The HTML SCRIPT element is used in HTML to tell the browser to load the JS file
+
+### All information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett
