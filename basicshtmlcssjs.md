@@ -2,7 +2,7 @@
 
 ## HTML & CSS - Jon Duckett
 
-- Chapter 2: Text
+- **Chapter 2: Text**
 
   - Structural Markup
 
@@ -12,7 +12,7 @@
 
     - Provides extra info; such as where empahsis is placed in a sentence, that something you have written is a quotation, the meaning of acronyms, and so on
 
-- Chapter 10: Introducing CSS
+- **Chapter 10: Introducing CSS**
 
   - CSS allows you to create rules that specify how the content of an element should appear. For example: you can specify that the background of a page is cream, all paragraphs should be gray using a specific font, or that all level one headings should be blue, italic, and bold
 
@@ -26,7 +26,7 @@
 
 ## JavaScript - Jon Duckett
 
-- Chapter 2: Basic JavaScript Instructions
+- **Chapter 2: Basic JavaScript Instructions**
 
   - A script is made up of a series of statements. Each statement is like a step in a recipe
   
@@ -42,7 +42,7 @@
 
   - Expressions rely on operators to calculate a value
 
-- Chapter 4: Decisions and Loops
+- **Chapter 4: Decisions and Loops**
 
   - Conditional statements allow your code to make decisions about what to do next
 
