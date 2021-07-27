@@ -36,7 +36,7 @@
 
   - Good ways to start to organize your website is by using site maps and wireframes
 
-## JS & JQuery - Jon Duckett
+## JavaScript - Jon Duckett
 
 - JS Chapter 1: The ABC of Programming
 
