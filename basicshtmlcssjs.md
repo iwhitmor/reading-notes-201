@@ -42,4 +42,18 @@
 
   - Expressions rely on operators to calculate a value
 
+- Chapter 4: Decisions and Loops
+
+  - Conditional statements allow your code to make decisions about what to do next
+
+  - Comparison operators are used to compare two operands
+  
+    - Examples: ===, !==, ==, !=, <, >, <=, =>
+
+    - The operand does not have to be a single value or variable name. It can be an expression
+  
+  - Logical operators allow you to combine more than one set of comparison operators
+
+  - if ... else statements allow you to run one set of code if a condition is true, and another if it is false
+
 All information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett
