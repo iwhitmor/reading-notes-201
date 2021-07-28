@@ -4,5 +4,6 @@ Here are all of my reading notes for Code 201. Click the links below to go to my
 
 ## Table of Contents
 
-* [Introductory HTML and JavaScript](/introtohtmlandjs.md)
-* [Basics of HTML, CSS, & JS](/basicshtmlcssjs.md)
+* [Introductory HTML and JavaScript](/reading01.md)
+* [Basics of HTML, CSS, & JS](/reading02.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](/reading03.md)
