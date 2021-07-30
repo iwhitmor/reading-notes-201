@@ -4,7 +4,7 @@
 
 - **Chapter 4: Links**
 
-  - Links are creating with the <a> element. Users can click on anything between the opening <a> tag and the closing </a> tag. You specify which page you want to link to using the HREF attribute
+  - Links are creating with the 'A' element. Users can click on anything between the opening 'A' tag and the closing 'A' tag. You specify which page you want to link to using the HREF attribute
 
   - You can create links to open email programs with an email address in the "to" field
 
