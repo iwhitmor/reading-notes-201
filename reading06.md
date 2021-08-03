@@ -57,4 +57,4 @@
 
     - Browsers off tools for viewing the DOM tree
 
-All information taken from "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett and the web article [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+Information taken from "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett and the web article [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)

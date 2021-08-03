@@ -58,4 +58,4 @@
 
         - A FOR LOOP uses a counter as a condition. This instructs the code to run a specified number of times
 
-All information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett 
+Information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett 

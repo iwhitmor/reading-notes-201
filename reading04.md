@@ -52,4 +52,4 @@
 
     - Pair programming touches on all four of the major learning skills (listening speaking, reading, and writing): developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves
 
-All information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett and the article [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+Information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett and the article [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)

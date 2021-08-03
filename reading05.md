@@ -30,4 +30,4 @@
 
     - "Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations."
 
-All information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett and the web article [JPEG vs PNG vs GIF — which image format to use and when?](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+Information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett and the web article [JPEG vs PNG vs GIF — which image format to use and when?](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)

@@ -56,4 +56,4 @@
 
   - if ... else statements allow you to run one set of code if a condition is true, and another if it is false
 
-All information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett
+Information taken from "HTML & CSS Design and Build Websites" and "Javascript & JQuery Interactive Front-End Web Development" by Jon Duckett
