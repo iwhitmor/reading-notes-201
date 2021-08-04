@@ -27,3 +27,5 @@
   - CSS frameworks provide rules for common tasks
 
     - Create layout grids, styling forms, creating printer-friendly versions of each page, etc
+
+Information taken from "HTML & CSS Design and Build Websites" by Jon Duckett
