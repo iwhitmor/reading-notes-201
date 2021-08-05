@@ -12,3 +12,4 @@ Here are all of my reading notes for Code 201. Click the links below to go to my
 * Reading 6: [Problem Domain, Objects, and the DOM](/reading06.md)
 * Reading 7: [Object-Oriented Programming, HTML Tables](/reading07.md)
 * Reading 8: [CSS Layout](/reading08.md)
+* Reading 9: [Forms and JS Events](/reading09.md)
