@@ -26,7 +26,7 @@
 
   - Lists, tables, and forms can all be formatted for your liking using CSS
 
-  - List amrkers can be given differnt appearances using the list-style-type and list-style image properties
+  - List markers can be given differnt appearances using the list-style-type and list-style image properties
 
   - Table cells can have different borders and spacing in different browsers, but there are properties you can use to control them and make them more consistent
 
