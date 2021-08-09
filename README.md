@@ -14,3 +14,4 @@ Here are all of my reading notes for Code 201. Click the links below to go to my
 * Reading 8: [CSS Layout](/reading08.md)
 * Reading 9: [Forms and JS Events](/reading09.md)
 * Reading 10: [Error, Handling, and Debugging](/reading10.md)
+* Reading 11: [Audio, Video, Images](/reading11.md)
