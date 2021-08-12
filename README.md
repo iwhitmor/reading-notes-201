@@ -17,3 +17,5 @@ Here are all of my reading notes for Code 201. Click the links below to go to my
 * Reading 11: [Audio, Video, Images](/reading11.md)
 * Reading 12: [Chart.js, Canvas](/reading12.md)
 * Reading 13: [Local Storage](/reading13.md)
+* Reading 14a: [CSS Transforms, Transitions, and Animations](/reading14a.md)
+* Reading 14b: [What Google Learned About Teams](/reading14b.md)
